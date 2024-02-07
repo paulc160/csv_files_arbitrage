@@ -1,0 +1,418 @@
+team_name,display_name,main_league,main_league_common_id,country
+liverpool,Liverpool,English Premier League,337,England
+arsenal,Arsenal,English Premier League,337,England
+manchester city,Manchester City,English Premier League,337,England
+aston villa,Aston Villa,English Premier League,337,England
+tottenham,Tottenham Hotspur,English Premier League,337,England
+manchester united,Manchester United,English Premier League,337,England
+west ham,West Ham,English Premier League,337,England
+brighton,Brighton,English Premier League,337,England
+newcastle,Newcastle,English Premier League,337,England
+wolves,Wolves,English Premier League,337,England
+chelsea,Chelsea,English Premier League,337,England
+bournemouth,Bournemouth,English Premier League,337,England
+fulham,Fulham,English Premier League,337,England
+crystal palace,Crystal Palace,English Premier League,337,England
+brentford,Brentford,English Premier League,337,England
+nottingham forest,Nottingham Forest,English Premier League,337,England
+luton,Luton,English Premier League,337,England
+everton,Everton,English Premier League,337,England
+burnley,Burnley,English Premier League,337,England
+sheffield united,Sheffield United,English Premier League,337,England
+leicester,Leicester,Championship,338,England
+southampton,Southampton,Championship,338,England
+leeds,Leeds,Championship,338,England
+ipswich,Ipswich,Championship,338,England
+west brom,West Brom,Championship,338,England
+hull,Hull,Championship,338,England
+coventry,Coventry,Championship,338,England
+sunderland,Sunderland,Championship,338,England
+norwich,Norwich,Championship,338,England
+preston,Preston,Championship,338,England
+watford,Watford,Championship,338,England
+middlesbrough,Middlesbrough,Championship,338,England
+cardiff,Cardiff,Championship,338,England
+bristol city,Bristol City,Championship,338,England
+plymouth,Plymouth,Championship,338,England
+millwall,Millwall,Championship,338,England
+swansea,Swansea,Championship,338,England
+blackburn,Blackburn,Championship,338,England
+birmingham,Birmingham,Championship,338,England
+stoke,Stoke,Championship,338,England
+huddersfield,Huddersfield,Championship,338,England
+qpr,QPR,Championship,338,England
+sheffield wednesday,Sheffield Wednesday,Championship,338,England
+rotherham,Rotherham,Championship,338,England
+portsmouth,Portsmouth,League One,339,England
+derby,Derby,League One,339,England
+bolton,Bolton,League One,339,England
+peterborough,Peterborough,League One,339,England
+barnsley,Barnsley,League One,339,England
+stevenage,Stevenage,League One,339,England
+oxford united,Oxford United,League One,339,England
+blackpool,Blackpool,League One,339,England
+leyton orient,Leyton Orient,League One,339,England
+bristol rovers,Bristol Rovers,League One,339,England
+northampton,Northampton,League One,339,England
+lincoln,Lincoln,League One,339,England
+wigan,Wigan,League One,339,England
+cambridge united,Cambridge United,League One,339,England
+wycombe,Wycombe,League One,339,England
+shrewsbury,Shrewsbury,League One,339,England
+exeter,Exeter,League One,339,England
+burton,Burton,League One,339,England
+charlton,Charlton,League One,339,England
+port vale,Port Vale,League One,339,England
+reading,Reading,League One,339,England
+cheltenham,Cheltenham,League One,339,England
+fleetwood,Fleetwood,League One,339,England
+carlisle,Carlisle,League One,339,England
+stockport county,Stockport County,League Two,340,England
+mansfield,Mansfield,League Two,340,England
+barrow,Barrow,League Two,340,England
+wrexham,Wrexham,League Two,340,England
+crewe,Crewe,League Two,340,England
+mk dons,MK Dons,League Two,340,England
+notts county,Notts County,League Two,340,England
+harrogate,Harrogate,League Two,340,England
+afc wimbledon,AFC Wimbledon,League Two,340,England
+gillingham,Gillingham,League Two,340,England
+accrington,Accrington,League Two,340,England
+morecambe,Morecambe,League Two,340,England
+newport,Newport,League Two,340,England
+crawley,Crawley,League Two,340,England
+walsall,Walsall,League Two,340,England
+tranmere,Tranmere,League Two,340,England
+swindon,Swindon,League Two,340,England
+bradford city,Bradford City,League Two,340,England
+salford,Salford,League Two,340,England
+grimsby,Grimsby,League Two,340,England
+colchester,Colchester,League Two,340,England
+doncaster,Doncaster,League Two,340,England
+sutton,Sutton,League Two,340,England
+forest green,Forest Green,League Two,340,England
+chesterfield,Chesterfield,National League,341,England
+bromley,Bromley,National League,341,England
+barnet,Barnet,National League,341,England
+atrincham,Altrincham,National League,341,England
+aldershot,Aldershot,National League,341,England
+solihull moors,Solihull Moors,National League,341,England
+gateshead,Gateshead,National League,341,England
+oldham,Oldham,National League,341,England
+rochdale,Rochdale,National League,341,England
+fc halifax,FC Halifax,National League,341,England
+hartlepool,Hartlepool,National League,341,England
+wealdstone,Wealdstone,National League,341,England
+eastleigh,Eastleigh,National League,341,England
+dagenham and redbridge,Dagenham and Redbridge,National League,341,England
+boreham wood,Boreham Wood,National League,341,England
+maidenhead,Maidenhead,National League,341,England
+southend,Southend,National League,341,England
+york city,York City,National League,341,England
+dorking,Dorking,National League,341,England
+afc fylde,AFC Fylde,National League,341,England
+kidderminster,Kidderminster,National League,341,England
+ebbsfleet,Ebbsfleet,National League,341,England
+woking,Woking,National League,341,England
+oxford city,Oxford City,National League,341,England
+wellington phoenix,Wellington Phoenix,A-League,347,Australia
+central coast mariners,Central Coast Mariners,A-League,347,Australia
+melbourne victory,Melbourne Victory,A-League,347,Australia
+macarthur fc,Macarthur FC,A-League,347,Australia
+ws wanderers,WS Wanderers,A-League,347,Australia
+melbourne city,Melbourne City,A-League,347,Australia
+sydney fc,Sydney FC,A-League,347,Australia
+adelaide united,Adelaide United,A-League,347,Australia
+brisbane roar,Brisbane Roar,A-League,347,Australia
+newcastle jets,Newcastle Jets,A-League,347,Australia
+perth glory,Perth Glory,A-League,347,Australia
+western united,Western United,A-League,347,Australia
+midtjylland,Midtjylland,Superliga,348,Denmark
+brondby,Brondby,Superliga,348,Denmark
+fc copenhagen,FC Copenhagen,Superliga,348,Denmark
+aarhus,Aarhus,Superliga,348,Denmark
+nordsjaelland,Nordsjaelland,Superliga,348,Denmark
+silkeborg,Silkeborg,Superliga,348,Denmark
+lyngby,Lyngby,Superliga,348,Denmark
+viborg,Viborg,Superliga,348,Denmark
+odense,Odense,Superliga,348,Denmark
+randers fc,Randers FC,Superliga,348,Denmark
+vejle,Vejle,Superliga,348,Denmark
+hvidovre if,Hvidovre IF,Superliga,348,Denmark
+psg,PSG,Ligue 1,349,France
+nice,Nice,Ligue 1,349,France
+brest,Brest,Ligue 1,349,France
+lille,Lille,Ligue 1,349,France
+monaco,Monaco,Ligue 1,349,France
+lens,Lens,Ligue 1,349,France
+reims,Reims,Ligue 1,349,France
+marseille,Marseille,Ligue 1,349,France
+rennes,Rennes,Ligue 1,349,France
+strasbourg,Strasbourg,Ligue 1,349,France
+le havre,Le Havre,Ligue 1,349,France
+toulouse,Toulouse,Ligue 1,349,France
+montpellier,Montpellier,Ligue 1,349,France
+nantes,Nantes,Ligue 1,349,France
+lyon,Lyon,Ligue 1,349,France
+metz,Metz,Ligue 1,349,France
+lorient,Lorient,Ligue 1,349,France
+clermont,Clermont,Ligue 1,349,France
+angers,Angers,Ligue 2,350,France
+auxerre,Auxerre,Ligue 2,350,France
+grenoble,Grenoble,Ligue 2,350,France
+laval,Laval,Ligue 2,350,France
+amiens,Amiens,Ligue 2,350,France
+pau fc,Pau FC,Ligue 2,350,France
+caen,Caen,Ligue 2,350,France
+ac ajaccio,AC Ajaccio,Ligue 2,350,France
+guingamp,Guingamp,Ligue 2,350,France
+paris fc,Paris FC,Ligue 2,350,France
+st etienne,St Etienne,Ligue 2,350,France
+rodez,Rodez,Ligue 2,350,France
+bordeaux,Bordeaux,Ligue 2,350,France
+concarneau,Concarneau,Ligue 2,350,France
+troyes,Troyes,Ligue 2,350,France
+bastia,Bastia,Ligue 2,350,France
+annecy,Annecy,Ligue 2,350,France
+dunkerque,Dunkerque,Ligue 2,350,France
+quevilly rouen,Quevilly Rouen,Ligue 2,350,France
+valenciennes,Valenciennes,Ligue 2,350,France
+bayer leverkusen,Bayer Leverkusen,Bundesliga,351,Germany
+bayern munich,Bayern Munich,Bundesliga,351,Germany
+stuttgart,Stuttgart,Bundesliga,351,Germany
+dortmund,Dortmund,Bundesliga,351,Germany
+rb leipzig,RB Leipzig,Bundesliga,351,Germany
+eintracht frankfurt,Eintracht Frankfurt,Bundesliga,351,Germany
+freiburg,Freiburg,Bundesliga,351,Germany
+hoffenheim,Hoffenheim,Bundesliga,351,Germany
+werder bremen,Werder Bremen,Bundesliga,351,Germany
+heidenheim,Heidenheim,Bundesliga,351,Germany
+wolfsburg,Wolfsburg,Bundesliga,351,Germany
+augsburg,Augsburg,Bundesliga,351,Germany
+borussia monchengladbach,Borussia Monchengladbach,Bundesliga,351,Germany
+bochum,Bochum,Bundesliga,351,Germany
+union berlin,Union Berlin,Bundesliga,351,Germany
+fc koln,FC Koln,Bundesliga,351,Germany
+mainz,Mainz,Bundesliga,351,Germany
+darmstadt,Darmstadt,Bundesliga,351,Germany
+st. pauli,St. Pauli,2. Bundesliga,352,Germany
+hamburger sv,Hamburger SV,2. Bundesliga,352,Germany
+holstein kiel,Holstein Kiel,2. Bundesliga,352,Germany
+greuther furth,Greuther Furth,2. Bundesliga,352,Germany
+dusseldorf,Dusseldorf,2. Bundesliga,352,Germany
+hannover,Hannover,2. Bundesliga,352,Germany
+paderborn,Paderborn,2. Bundesliga,352,Germany
+karlsruher sc,Karlsruher SC,2. Bundesliga,352,Germany
+elversberg,Elversberg,2. Bundesliga,352,Germany
+nurnberg,Nurnberg,2. Bundesliga,352,Germany
+hertha berlin,Hertha Berlin,2. Bundesliga,352,Germany
+wehen,Wehen,2. Bundesliga,352,Germany
+magdeburg,Magdeburg,2. Bundesliga,352,Germany
+schalke,Schalke,2. Bundesliga,352,Germany
+kaiserslautern,Kaiserslautern,2. Bundesliga,352,Germany
+hansa rostock,Hansa Rostock,2. Bundesliga,352,Germany
+braunschweig,Braunschweig,2. Bundesliga,352,Germany
+vfl osnabruck,VFL Osnabruck,2. Bundesliga,352,Germany
+inter,Inter,Serie A,353,Italy
+juventus,Juventus,Serie A,353,Italy
+ac milan,AC Milan,Serie A,353,Italy
+atalanta,Atalanta,Serie A,353,Italy
+as roma,AS Roma,Serie A,353,Italy
+bologna,Bologna,Serie A,353,Italy
+napoli,Napoli,Serie A,353,Italy
+fiorentina,Fiorentina,Serie A,353,Italy
+lazio,Lazio,Serie A,353,Italy
+torino,Torino,Serie A,353,Italy
+genoa,Genoa,Serie A,353,Italy
+monza,Monza,Serie A,353,Italy
+lecce,Lecce,Serie A,353,Italy
+forsinone,Frosinone,Serie A,353,Italy
+sassuolo,Sassuolo,Serie A,353,Italy
+udinese,Udinese,Serie A,353,Italy
+verona,Verona,Serie A,353,Italy
+cagliari,Cagliari,Serie A,353,Italy
+empoli,Empoli,Serie A,353,Italy
+salernitana,Salernitana,Serie A,353,Italy
+parma,Parma,Serie B,354,Italy
+cremonese,Cremonese,Serie B,354,Italy
+como,Como,Serie B,354,Italy
+venezia,Venezia,Serie B,354,Italy
+palermo,Palermo,Serie B,354,Italy
+cittadella,Citadella,Serie B,354,Italy
+catanzaro,Catanzaro,Serie B,354,Italy
+brescia,Brescia,Serie B,354,Italy
+modena,Modena,Serie B,354,Italy
+reggiana,Reggiana,Serie B,354,Italy
+cosenza,Cosenza,Serie B,354,Italy
+sudtirol,Sudtirol,Serie B,354,Italy
+pisa,Pisa,Serie B,354,Italy
+sampdoria,Sampdoria,Serie B,354,Italy
+bari,Bari,Serie B,354,Italy
+ascoli,Ascoli,Serie B,354,Italy
+ternana,Ternana,Serie B,354,Italy
+feralpisalo,FerapliSalo,Serie B,354,Italy
+spezia,Spezia,Serie B,354,Italy
+lecco,Lecco,Serie B,354,Italy
+sagan tosu,Sagan Tosu,J1 League,355,Japan
+avispa fukuoka,Avispa Fukuoka,J1 League,355,Japan
+shonan bellmare,Shonan Bellmare,J1 League,355,Japan
+cerezo osaka,Cerezo Osaka,J1 League,355,Japan
+verdy,Verdy,J1 League,355,Japan
+albirex niigata,Albirex Niigata,J1 League,355,Japan
+kyoto,Kyoto,J1 League,355,Japan
+nagoya grampus,Nagoya Grampus,J1 League,355,Japan
+yokohama f. marinos,Yokohama F. Marinos,J1 League,355,Japan
+kawasaki frontale,Kawasaki Frontale,J1 League,355,Japan
+hokkaido consadole sapporo ,Hokkaido Consadole Sapporo ,J1 League,355,Japan
+kashiwa reysol,Kashiwa Reysol,J1 League,355,Japan
+vissel kobe,Vissel Kobe,J1 League,355,Japan
+urawa reds,Urawa Reds,J1 League,355,Japan
+sanfrecce hiroshima,Sanfrecce Hiroshima,J1 League,355,Japan
+fc tokyo,FC Tokyo,J1 League,355,Japan
+iwata,Iwata,J1 League,355,Japan
+kashima antlers,Kashima Antlers,J1 League,355,Japan
+gamba osaka,Gamba Osaka,J1 League,355,Japan
+machida ,Machida,J1 League,355,Japan
+kusatsu,Kusatsu,J2 League,356,Japan
+kumamoto,Kumamoto,J2 League,356,Japan
+mito,Mito,J2 League,356,Japan
+tokushima,Tokushima,J2 League,356,Japan
+kofu,Kofu,J2 League,356,Japan
+vegalta sendai,Vegalta Sendai,J2 League,356,Japan
+yokohama fc,Yokohame FC,J2 League,356,Japan
+montedio yamagata,Montedio Yamagata,J2 League,356,Japan
+ehime,Ehime,J2 League,356,Japan
+shimizu s-pulse,Shimizu S-Pulse,J2 League,356,Japan
+oita trinita,Oita Trinita,J2 League,356,Japan
+chiba,Chiba,J2 League,356,Japan
+tochigi sc,Tochigi SC,J2 League,356,Japan
+okayama,Okayama,J2 League,356,Japan
+blaublitz,Blaublitz,J2 League,356,Japan
+v-varen nagasaki,V-Varen Nagasaki,J2 League,356,Japan
+fujieda myfc,Fujieda MYFC,J2 League,356,Japan
+kagoshima utd,Kagoshima Utd,J2 League,356,Japan
+iwaki,Iwaki,J2 League,356,Japan
+renofa yamaguchi,Renofa Yamaguchi,J2 League,356,Japan
+psv,PSV,Eredivisie,357,Netherlands
+feyenoord,Feyenoord,Eredivisie,357,Netherlands
+twente,Twente,Eredivisie,357,Netherlands
+az alkmaar,AZ Alkmaar,Eredivisie,357,Netherlands
+ajax,Ajax,Eredivisie,357,Netherlands
+g.a. eagles,G. A. Eagles,Eredivisie,357,Netherlands
+nijmegen,Nijmegen,Eredivisie,357,Netherlands
+zwolle,Zwolle,Eredivisie,357,Netherlands
+sparta rotterdam,Sparta Rotterdam,Eredivisie,357,Netherlands
+sittard,Sittard,Eredivisie,357,Netherlands
+utrecht,Utrecht,Eredivisie,357,Netherlands
+almere city,Almere City,Eredivisie,357,Netherlands
+heerenveen,Heerenveen,Eredivisie,357,Netherlands
+excelsior,Excelsior,Eredivisie,357,Netherlands
+heracles,Heracles,Eredivisie,357,Netherlands
+waalwijk,Waalwijk,Eredivisie,357,Netherlands
+fc volendam,FC Volendam,Eredivisie,357,Netherlands
+vitesse,Vitesse,Eredivisie,357,Netherlands
+willem ii,Willem II,Eerste Divisie,358,Netherlands
+den haag,Den Haag,Eerste Divisie,358,Netherlands
+roda,Roda,Eerste Divisie,358,Netherlands
+de graafschap,De Graafschap,Eerste Divisie,358,Netherlands
+dordrecht,Dordrecht,Eerste Divisie,358,Netherlands
+groningen,Groningen,Eerste Divisie,358,Netherlands
+venlo,Venlo,Eerste Divisie,358,Netherlands
+cambuur,Cambuur,Eerste Divisie,358,Netherlands
+nac breda,NAC Breda,Eerste Divisie,358,Netherlands
+maastricht,Maastricht,Eerste Divisie,358,Netherlands
+jong az,Jong AZ,Eerste Divisie,358,Netherlands
+fc emmen,FC Emmen,Eerste Divisie,358,Netherlands
+eindhoven fc,Eindhoven FC,Eerste Divisie,358,Netherlands
+helmond,Helmond,Eerste Divisie,358,Netherlands
+jong ajax,Jong Ajax,Eerste Divisie,358,Netherlands
+jong psv,Jong PSV,Eerste Divisie,358,Netherlands
+jong utrecht,Jong Utrecht,Eerste Divisie,358,Netherlands
+den bosch,Den Bosch,Eerste Divisie,358,Netherlands
+oss,Oss,Eerste Divisie,358,Netherlands
+telstar,Telstar,Eerste Divisie,358,Netherlands
+benfica,Benfica,Liga Portugal,365,Portugal
+sporting cp,Sporting CP,Liga Portugal,365,Portugal
+fc porto,FC Porto,Liga Portugal,365,Portugal
+braga,Braga,Liga Portugal,365,Portugal
+vitoria guimaraes,Vitoria Guimaraes,Liga Portugal,365,Portugal
+moreirense,Moreirense,Liga Portugal,365,Portugal
+sc farense,SC Farense,Liga Portugal,365,Portugal
+arouca,Arouca,Liga Portugal,365,Portugal
+famalicao,Famalicao,Liga Portugal,365,Portugal
+gil vicente,Gil Vicente,Liga Portugal,365,Portugal
+boavista,Boavista,Liga Portugal,365,Portugal
+portimonense,Portimonense,Liga Portugal,365,Portugal
+estoril,Estoril,Liga Portugal,365,Portugal
+casa pia,Casa Pia,Liga Portugal,365,Portugal
+rio ave,Rio Ave,Liga Portugal,365,Portugal
+estrela,Estrela,Liga Portugal,365,Portugal
+chaves,Chaves,Liga Portugal,365,Portugal
+vizela,Vizela,Liga Portugal,365,Portugal
+daejeon,Daejeon,K League 1,381,South Korea
+incheon,Incheon,K League 1,381,South Korea
+pohang,Pohang,K League 1,381,South Korea
+daegu,Daegu,K League 1,381,South Korea
+seoul,Seoul,K League 1,381,South Korea
+gimcheon sangmu,Gimcheon Sangmu,K League 1,381,South Korea
+jeju utd,Jeju Utd,K League 1,381,South Korea
+jeonbuk,Jeonbuk,K League 1,381,South Korea
+ulsan hyundai,Ulsan Hyundai,K League 1,381,South Korea
+gangwon,Gangwon,K League 1,381,South Korea
+suwon fc,Suwon FC,K League 1,381,South Korea
+gwangju fc,Gwangju FC,K League 1,381,South Korea
+busan,Busan,K League 2,382,South Korea
+suwon bluewings,Suwon Bluewings,K League 3,382,South Korea
+jeonnam,Jeonnam,K League 4,382,South Korea
+gyeongnam,Gyeongnam,K League 5,382,South Korea
+seongnam,Seongnam,K League 6,382,South Korea
+cheonan city,Cheonan City,K League 7,382,South Korea
+bucheon fc 1995,Bucheon FC 1995,K League 8,382,South Korea
+cheongju,Cheongju,K League 9,382,South Korea
+asan,Asan,K League 10,382,South Korea
+anyang,Anyang,K League 11,382,South Korea
+gimpo fc,Gimpo FC,K League 12,382,South Korea
+seoul e-land,Seoul E-Land,K League 13,382,South Korea
+ansan greeners,Ansan Greeners,K League 14,382,South Korea
+real madrid,Real Madrid,La Liga,383,Spain
+girona,Girona,La Liga,383,Spain
+barcelona,Barcelona,La Liga,383,Spain
+atletico madrid,Atletico Madrid,La Liga,383,Spain
+athletic bilbao,Athletic Bilbao,La Liga,383,Spain
+real sociedad,Real Sociedad,La Liga,383,Spain
+valencia,Valencia,La Liga,383,Spain
+betis,Betis,La Liga,383,Spain
+las palmas,Las Palmas,La Liga,383,Spain
+getafe,Getafe,La Liga,383,Spain
+alaves,Alaves,La Liga,383,Spain
+osasuna,Osasuna,La Liga,383,Spain
+rayo vallecano,Rayo Vallecano,La Liga,383,Spain
+villarreal,Villarreal,La Liga,383,Spain
+sevilla,Sevilla,La Liga,383,Spain
+celta vigo,Celta Vigo,La Liga,383,Spain
+mallorca,Mallorca,La Liga,383,Spain
+cadiz cf,Cadiz CF,La Liga,383,Spain
+granada cf,Granada CF,La Liga,383,Spain
+almeria,Almeria,La Liga,383,Spain
+leganes,Leganes,La Liga 2,384,Spain
+eibar,Eibar,La Liga 2,384,Spain
+ferrol,Ferrol,La Liga 2,384,Spain
+espanyol,Espanyol,La Liga 2,384,Spain
+valladolid,Valladolid,La Liga 2,384,Spain
+elche,Elche,La Liga 2,384,Spain
+gijon,Gijon,La Liga 2,384,Spain
+real oviedo,Real Oviedo,La Liga 2,384,Spain
+levante,Levante,La Liga 2,384,Spain
+zaragoza,Zaragoza,La Liga 2,384,Spain
+racing santander,Racing Santander,La Liga 2,384,Spain
+burgos cf,Burgos CF,La Liga 2,384,Spain
+eldense,Eldense,La Liga 2,384,Spain
+mirandes,Mirandes,La Liga 2,384,Spain
+tenerife,Tenerife,La Liga 2,384,Spain
+huesca,Huesca,La Liga 2,384,Spain
+albacete,Albacete,La Liga 2,384,Spain
+fc cartagena sad,FC Cartagena SAD,La Liga 2,384,Spain
+villarreal b,Villarreal B,La Liga 2,384,Spain
+alcorcon,Alcorcon,La Liga 2,384,Spain
+andorra,Andorra,La Liga 2,384,Spain
+amorebieta,Amorebieta,La Liga 2,384,Spain
