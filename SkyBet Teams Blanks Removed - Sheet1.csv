@@ -1,0 +1,325 @@
+team_name,main_league,main_league_common_id,country,team_name_website,website,team_common_id
+liverpool,English Premier League,337,England,liverpool,SkyBet,7
+arsenal,English Premier League,337,England,arsenal,SkyBet,8
+manchester city,English Premier League,337,England,manchester city,SkyBet,9
+aston villa,English Premier League,337,England,aston villa,SkyBet,10
+tottenham,English Premier League,337,England,tottenham,SkyBet,11
+manchester united,English Premier League,337,England,manchester utd,SkyBet,12
+west ham,English Premier League,337,England,west ham,SkyBet,13
+brighton,English Premier League,337,England,brighton,SkyBet,14
+newcastle,English Premier League,337,England,newcastle,SkyBet,15
+wolves,English Premier League,337,England,wolves,SkyBet,16
+chelsea,English Premier League,337,England,chelsea,SkyBet,17
+bournemouth,English Premier League,337,England,bournemouth,SkyBet,18
+fulham,English Premier League,337,England,fulham,SkyBet,19
+crystal palace,English Premier League,337,England,crystal palace,SkyBet,20
+brentford,English Premier League,337,England,brentford,SkyBet,21
+nottingham forest,English Premier League,337,England,nottingham forest,SkyBet,22
+luton,English Premier League,337,England,luton town,SkyBet,23
+everton,English Premier League,337,England,everton,SkyBet,24
+burnley,English Premier League,337,England,burnley,SkyBet,25
+sheffield united,English Premier League,337,England,sheffield utd,SkyBet,26
+leicester,Championship,338,England,leicester,SkyBet,27
+southampton,Championship,338,England,southampton,SkyBet,28
+leeds,Championship,338,England,leeds,SkyBet,29
+ipswich,Championship,338,England,ipswich,SkyBet,30
+west brom,Championship,338,England,west brom,SkyBet,31
+hull,Championship,338,England,hull,SkyBet,32
+coventry,Championship,338,England,coventry,SkyBet,33
+sunderland,Championship,338,England,sunderland,SkyBet,34
+norwich,Championship,338,England,norwich,SkyBet,35
+preston,Championship,338,England,preston,SkyBet,36
+watford,Championship,338,England,watford,SkyBet,37
+middlesbrough,Championship,338,England,middlesbrough,SkyBet,38
+cardiff,Championship,338,England,cardiff,SkyBet,39
+bristol city,Championship,338,England,bristol city,SkyBet,40
+plymouth,Championship,338,England,plymouth,SkyBet,41
+millwall,Championship,338,England,millwall,SkyBet,42
+swansea,Championship,338,England,swansea,SkyBet,43
+blackburn,Championship,338,England,blackburn,SkyBet,44
+birmingham,Championship,338,England,birmingham,SkyBet,45
+stoke,Championship,338,England,stoke,SkyBet,46
+huddersfield,Championship,338,England,huddersfield,SkyBet,47
+qpr,Championship,338,England,qpr,SkyBet,48
+sheffield wednesday,Championship,338,England,sheffield wednesday,SkyBet,49
+rotherham,Championship,338,England,rotherham,SkyBet,50
+portsmouth,League One,339,England,portsmouth,SkyBet,51
+derby,League One,339,England,derby,SkyBet,52
+bolton,League One,339,England,bolton,SkyBet,53
+peterborough,League One,339,England,peterborough,SkyBet,54
+barnsley,League One,339,England,barnsley,SkyBet,55
+stevenage,League One,339,England,stevenag,SkyBet,56
+oxford united,League One,339,England,oxford,SkyBet,57
+blackpool,League One,339,England,blackpool,SkyBet,58
+leyton orient,League One,339,England,leyton orient,SkyBet,59
+bristol rovers,League One,339,England,bristol rovers,SkyBet,60
+northampton,League One,339,England,northampton,SkyBet,61
+lincoln,League One,339,England,lincoln,SkyBet,62
+wigan,League One,339,England,wigan,SkyBet,63
+cambridge united,League One,339,England,cambridge,SkyBet,64
+wycombe,League One,339,England,wycombe,SkyBet,65
+shrewsbury,League One,339,England,shrewsbury,SkyBet,66
+exeter,League One,339,England,exeter,SkyBet,67
+burton,League One,339,England,burton,SkyBet,68
+charlton,League One,339,England,charlton,SkyBet,69
+port vale,League One,339,England,port vale,SkyBet,70
+reading,League One,339,England,reading,SkyBet,71
+cheltenham,League One,339,England,cheltenham,SkyBet,72
+fleetwood,League One,339,England,fleetwood,SkyBet,73
+carlisle,League One,339,England,carlisle,SkyBet,74
+stockport county,League Two,340,England,stockport county,SkyBet,75
+mansfield,League Two,340,England,mansfield,SkyBet,76
+barrow,League Two,340,England,barrow,SkyBet,77
+wrexham,League Two,340,England,wrexham,SkyBet,78
+crewe,League Two,340,England,crewe,SkyBet,79
+mk dons,League Two,340,England,mk dons,SkyBet,80
+notts county,League Two,340,England,notts county,SkyBet,81
+harrogate,League Two,340,England,harrogate,SkyBet,82
+afc wimbledon,League Two,340,England,afc wimbledon,SkyBet,83
+gillingham,League Two,340,England,gillingham,SkyBet,84
+accrington,League Two,340,England,accrington,SkyBet,85
+morecambe,League Two,340,England,morecambe,SkyBet,86
+newport,League Two,340,England,newport,SkyBet,87
+crawley,League Two,340,England,crawley,SkyBet,88
+walsall,League Two,340,England,walsall,SkyBet,89
+tranmere,League Two,340,England,tranmere,SkyBet,90
+swindon,League Two,340,England,swindon,SkyBet,91
+bradford city,League Two,340,England,bradford,SkyBet,92
+salford,League Two,340,England,salford,SkyBet,93
+grimsby,League Two,340,England,grimsby,SkyBet,94
+colchester,League Two,340,England,colchester,SkyBet,95
+doncaster,League Two,340,England,doncaster,SkyBet,96
+sutton,League Two,340,England,sutton,SkyBet,97
+forest green,League Two,340,England,forest green,SkyBet,98
+chesterfield,National League,341,England,chesterfield,SkyBet,99
+bromley,National League,341,England,bromley,SkyBet,100
+barnet,National League,341,England,barnet,SkyBet,101
+atrincham,National League,341,England,altrincham,SkyBet,102
+aldershot,National League,341,England,aldershot,SkyBet,103
+solihull moors,National League,341,England,solihull,SkyBet,104
+gateshead,National League,341,England,gateshead,SkyBet,105
+oldham,National League,341,England,oldham,SkyBet,106
+rochdale,National League,341,England,rochdale,SkyBet,107
+fc halifax,National League,341,England,halifax,SkyBet,108
+hartlepool,National League,341,England,hartlepool,SkyBet,109
+wealdstone,National League,341,England,wealdstone,SkyBet,110
+eastleigh,National League,341,England,eastleigh,SkyBet,111
+dagenham and redbridge,National League,341,England,dagenham & redbridge,SkyBet,112
+boreham wood,National League,341,England,boreham wood,SkyBet,113
+maidenhead,National League,341,England,maidenhead,SkyBet,114
+southend,National League,341,England,southend,SkyBet,115
+york city,National League,341,England,york,SkyBet,116
+dorking,National League,341,England,dorking,SkyBet,117
+afc fylde,National League,341,England,afc fylde,SkyBet,118
+kidderminster,National League,341,England,kidderminster,SkyBet,119
+woking,National League,341,England,woking,SkyBet,121
+central coast mariners,A-League,347,Australia,central coast mariners,SkyBet,124
+melbourne victory,A-League,347,Australia,melbourne victory,SkyBet,125
+ws wanderers,A-League,347,Australia,western sydney wanderers,SkyBet,127
+melbourne city,A-League,347,Australia,melbourne city,SkyBet,128
+sydney fc,A-League,347,Australia,sydney fc,SkyBet,129
+adelaide united,A-League,347,Australia,adelaide united,SkyBet,130
+brisbane roar,A-League,347,Australia,brisbane roar,SkyBet,131
+newcastle jets,A-League,347,Australia,newcastle united jets,SkyBet,132
+perth glory,A-League,347,Australia,perth glory,SkyBet,133
+western united,A-League,347,Australia,western united fc,SkyBet,134
+viborg,Superliga,348,Denmark,viborg ff,SkyBet,142
+odense,Superliga,348,Denmark,odense bk,SkyBet,143
+psg,Ligue 1,349,France,paris st germain,SkyBet,147
+nice,Ligue 1,349,France,nice,SkyBet,148
+brest,Ligue 1,349,France,brest,SkyBet,149
+lille,Ligue 1,349,France,lille,SkyBet,150
+monaco,Ligue 1,349,France,monaco,SkyBet,151
+lens,Ligue 1,349,France,lens,SkyBet,152
+reims,Ligue 1,349,France,stade reims,SkyBet,153
+marseille,Ligue 1,349,France,marseille,SkyBet,154
+rennes,Ligue 1,349,France,rennes,SkyBet,155
+strasbourg,Ligue 1,349,France,rc strasbourg,SkyBet,156
+le havre,Ligue 1,349,France,le havre ac,SkyBet,157
+toulouse,Ligue 1,349,France,toulouse,SkyBet,158
+montpellier,Ligue 1,349,France,montpellier,SkyBet,159
+nantes,Ligue 1,349,France,nantes,SkyBet,160
+lyon,Ligue 1,349,France,lyon,SkyBet,161
+metz,Ligue 1,349,France,metz,SkyBet,162
+lorient,Ligue 1,349,France,lorient,SkyBet,163
+clermont,Ligue 1,349,France,clermont,SkyBet,164
+angers,Ligue 2,350,France,angers sco,SkyBet,165
+auxerre,Ligue 2,350,France,aj auxerre,SkyBet,166
+grenoble,Ligue 2,350,France,grenoble foot,SkyBet,167
+laval,Ligue 2,350,France,stade lavalois,SkyBet,168
+pau fc,Ligue 2,350,France,pau,SkyBet,170
+caen,Ligue 2,350,France,caen,SkyBet,171
+ac ajaccio,Ligue 2,350,France,ac ajaccio,SkyBet,172
+guingamp,Ligue 2,350,France,guingamp,SkyBet,173
+paris fc,Ligue 2,350,France,paris fc,SkyBet,174
+st etienne,Ligue 2,350,France,st etienne,SkyBet,175
+rodez,Ligue 2,350,France,rodez,SkyBet,176
+concarneau,Ligue 2,350,France,us concarneau,SkyBet,178
+troyes,Ligue 2,350,France,troyes,SkyBet,179
+bastia,Ligue 2,350,France,bastia,SkyBet,180
+annecy,Ligue 2,350,France,annecy,SkyBet,181
+dunkerque,Ligue 2,350,France,usl dunkerque,SkyBet,182
+quevilly rouen,Ligue 2,350,France,quevilly-rouen metropole,SkyBet,183
+valenciennes,Ligue 2,350,France,valenciennes fc,SkyBet,184
+bayer leverkusen,Bundesliga,351,Germany,bayer leverkusen,SkyBet,185
+bayern munich,Bundesliga,351,Germany,bayern munich,SkyBet,186
+stuttgart,Bundesliga,351,Germany,stuttgart,SkyBet,187
+dortmund,Bundesliga,351,Germany,dortmund,SkyBet,188
+rb leipzig,Bundesliga,351,Germany,rb leipzig,SkyBet,189
+eintracht frankfurt,Bundesliga,351,Germany,eintracht frankfurt,SkyBet,190
+freiburg,Bundesliga,351,Germany,sc freiburg,SkyBet,191
+hoffenheim,Bundesliga,351,Germany,1899 hoffenheim,SkyBet,192
+werder bremen,Bundesliga,351,Germany,werder bremen,SkyBet,193
+heidenheim,Bundesliga,351,Germany,1. fc heidenheim,SkyBet,194
+wolfsburg,Bundesliga,351,Germany,wolfsburg,SkyBet,195
+augsburg,Bundesliga,351,Germany,augsburg,SkyBet,196
+borussia monchengladbach,Bundesliga,351,Germany,borussia monchengladbach,SkyBet,197
+bochum,Bundesliga,351,Germany,vfl bochum,SkyBet,198
+union berlin,Bundesliga,351,Germany,1. fc union berlin,SkyBet,199
+fc koln,Bundesliga,351,Germany,1. fc koln,SkyBet,200
+mainz,Bundesliga,351,Germany,mainz,SkyBet,201
+darmstadt,Bundesliga,351,Germany,sv darmstadt 98,SkyBet,202
+st. pauli,2. Bundesliga,352,Germany,fc st. pauli,SkyBet,203
+hamburger sv,2. Bundesliga,352,Germany,hamburg,SkyBet,204
+holstein kiel,2. Bundesliga,352,Germany,holstein kiel,SkyBet,205
+greuther furth,2. Bundesliga,352,Germany,spvgg greuther furth,SkyBet,206
+dusseldorf,2. Bundesliga,352,Germany,fortuna dusseldorf,SkyBet,207
+hannover,2. Bundesliga,352,Germany,hannover,SkyBet,208
+paderborn,2. Bundesliga,352,Germany,sc paderborn,SkyBet,209
+karlsruher sc,2. Bundesliga,352,Germany,karlsruher sc,SkyBet,210
+elversberg,2. Bundesliga,352,Germany,elversburg,SkyBet,211
+nurnberg,2. Bundesliga,352,Germany,nurnberg,SkyBet,212
+hertha berlin,2. Bundesliga,352,Germany,hertha berlin,SkyBet,213
+wehen,2. Bundesliga,352,Germany,sv wehen wiesbaden,SkyBet,214
+magdeburg,2. Bundesliga,352,Germany,fc magdeburg,SkyBet,215
+schalke,2. Bundesliga,352,Germany,schalke,SkyBet,216
+kaiserslautern,2. Bundesliga,352,Germany,kaiserslautern,SkyBet,217
+hansa rostock,2. Bundesliga,352,Germany,hansa rostock,SkyBet,218
+braunschweig,2. Bundesliga,352,Germany,eintracht braunschweig,SkyBet,219
+vfl osnabruck,2. Bundesliga,352,Germany,osnabruck,SkyBet,220
+inter,Serie A,353,Italy,inter,SkyBet,221
+juventus,Serie A,353,Italy,juventus,SkyBet,222
+ac milan,Serie A,353,Italy,milan,SkyBet,223
+atalanta,Serie A,353,Italy,atalanta,SkyBet,224
+as roma,Serie A,353,Italy,roma,SkyBet,225
+bologna,Serie A,353,Italy,bologna,SkyBet,226
+napoli,Serie A,353,Italy,napoli,SkyBet,227
+fiorentina,Serie A,353,Italy,fiorentina,SkyBet,228
+lazio,Serie A,353,Italy,lazio,SkyBet,229
+torino,Serie A,353,Italy,torino,SkyBet,230
+genoa,Serie A,353,Italy,genoa,SkyBet,231
+monza,Serie A,353,Italy,monza,SkyBet,232
+lecce,Serie A,353,Italy,lecce,SkyBet,233
+forsinone,Serie A,353,Italy,frosinone,SkyBet,234
+sassuolo,Serie A,353,Italy,sassuolo,SkyBet,235
+udinese,Serie A,353,Italy,udinese,SkyBet,236
+verona,Serie A,353,Italy,verona,SkyBet,237
+cagliari,Serie A,353,Italy,cagliari,SkyBet,238
+empoli,Serie A,353,Italy,empoli,SkyBet,239
+salernitana,Serie A,353,Italy,salernitana,SkyBet,240
+parma,Serie B,354,Italy,parma,SkyBet,241
+cremonese,Serie B,354,Italy,cremonese,SkyBet,242
+como,Serie B,354,Italy,como,SkyBet,243
+venezia,Serie B,354,Italy,venezia,SkyBet,244
+palermo,Serie B,354,Italy,palermo,SkyBet,245
+cittadella,Serie B,354,Italy,cittadella,SkyBet,246
+catanzaro,Serie B,354,Italy,catanzaro,SkyBet,247
+brescia,Serie B,354,Italy,brescia,SkyBet,248
+modena,Serie B,354,Italy,modena,SkyBet,249
+reggiana,Serie B,354,Italy,reggio audace f.c.,SkyBet,250
+cosenza,Serie B,354,Italy,cosenza,SkyBet,251
+sudtirol,Serie B,354,Italy,sudtirol,SkyBet,252
+pisa,Serie B,354,Italy,pisa,SkyBet,253
+sampdoria,Serie B,354,Italy,sampdoria,SkyBet,254
+bari,Serie B,354,Italy,bari,SkyBet,255
+ascoli,Serie B,354,Italy,ascoli,SkyBet,256
+ternana,Serie B,354,Italy,ternana,SkyBet,257
+feralpisalo,Serie B,354,Italy,feralpisalo,SkyBet,258
+spezia,Serie B,354,Italy,spezia,SkyBet,259
+lecco,Serie B,354,Italy,lecco,SkyBet,260
+psv,Eredivisie,357,Netherlands,psv eindhoven,SkyBet,301
+feyenoord,Eredivisie,357,Netherlands,feyenoord,SkyBet,302
+az alkmaar,Eredivisie,357,Netherlands,az alkmaar,SkyBet,304
+ajax,Eredivisie,357,Netherlands,ajax,SkyBet,305
+g.a. eagles,Eredivisie,357,Netherlands,go ahead eagles,SkyBet,306
+zwolle,Eredivisie,357,Netherlands,fc zwolle,SkyBet,308
+sparta rotterdam,Eredivisie,357,Netherlands,sparta rotterdam,SkyBet,309
+sittard,Eredivisie,357,Netherlands,fortuna sittard,SkyBet,310
+almere city,Eredivisie,357,Netherlands,almere city,SkyBet,312
+heerenveen,Eredivisie,357,Netherlands,heerenveen,SkyBet,313
+excelsior,Eredivisie,357,Netherlands,excelsior,SkyBet,314
+heracles,Eredivisie,357,Netherlands,heracles almelo,SkyBet,315
+willem ii,Eerste Divisie,358,Netherlands,willem ii,SkyBet,319
+den haag,Eerste Divisie,358,Netherlands,ado den haag,SkyBet,320
+roda,Eerste Divisie,358,Netherlands,roda jc,SkyBet,321
+de graafschap,Eerste Divisie,358,Netherlands,de graagschap,SkyBet,322
+dordrecht,Eerste Divisie,358,Netherlands,dordrecht,SkyBet,323
+groningen,Eerste Divisie,358,Netherlands,groningen,SkyBet,324
+venlo,Eerste Divisie,358,Netherlands,vvv-venlo,SkyBet,325
+cambuur,Eerste Divisie,358,Netherlands,cambuur leeuwarden,SkyBet,326
+nac breda,Eerste Divisie,358,Netherlands,nac breda,SkyBet,327
+maastricht,Eerste Divisie,358,Netherlands,mvv maastricht,SkyBet,328
+jong az,Eerste Divisie,358,Netherlands,jong az alkmaar,SkyBet,329
+fc emmen,Eerste Divisie,358,Netherlands,emmen,SkyBet,330
+eindhoven fc,Eerste Divisie,358,Netherlands,fc eindhoven,SkyBet,331
+helmond,Eerste Divisie,358,Netherlands,helmond sport,SkyBet,332
+jong ajax,Eerste Divisie,358,Netherlands,jong ajax,SkyBet,333
+jong psv,Eerste Divisie,358,Netherlands,,SkyBet,334
+jong utrecht,Eerste Divisie,358,Netherlands,jong fc utrecht,SkyBet,335
+den bosch,Eerste Divisie,358,Netherlands,den bosch,SkyBet,336
+oss,Eerste Divisie,358,Netherlands,top oss,SkyBet,337
+telstar,Eerste Divisie,358,Netherlands,telstar,SkyBet,338
+benfica,Liga Portugal,365,Portugal,benfica,SkyBet,339
+sporting cp,Liga Portugal,365,Portugal,sporting cp,SkyBet,340
+fc porto,Liga Portugal,365,Portugal,porto,SkyBet,341
+braga,Liga Portugal,365,Portugal,braga,SkyBet,342
+vitoria guimaraes,Liga Portugal,365,Portugal,vitoria guimaraes,SkyBet,343
+arouca,Liga Portugal,365,Portugal,futebol clube de arouca,SkyBet,346
+gil vicente,Liga Portugal,365,Portugal,gil vicente,SkyBet,348
+boavista,Liga Portugal,365,Portugal,boavista fc,SkyBet,349
+portimonense,Liga Portugal,365,Portugal,portimonense,SkyBet,350
+estrela,Liga Portugal,365,Portugal,club football estrela,SkyBet,354
+chaves,Liga Portugal,365,Portugal,gd chaves,SkyBet,355
+vizela,Liga Portugal,365,Portugal,vizela,SkyBet,356
+real madrid,La Liga,383,Spain,real madrid,SkyBet,382
+girona,La Liga,383,Spain,girona,SkyBet,383
+barcelona,La Liga,383,Spain,barcelona,SkyBet,384
+atletico madrid,La Liga,383,Spain,atletico madrid,SkyBet,385
+athletic bilbao,La Liga,383,Spain,athletic club,SkyBet,386
+real sociedad,La Liga,383,Spain,real sociedad,SkyBet,387
+valencia,La Liga,383,Spain,valencia,SkyBet,388
+betis,La Liga,383,Spain,betis,SkyBet,389
+las palmas,La Liga,383,Spain,las palmas,SkyBet,390
+getafe,La Liga,383,Spain,getafe,SkyBet,391
+alaves,La Liga,383,Spain,deportivo alaves,SkyBet,392
+osasuna,La Liga,383,Spain,osasuna,SkyBet,393
+rayo vallecano,La Liga,383,Spain,rayo vallecano,SkyBet,394
+villarreal,La Liga,383,Spain,villarreal,SkyBet,395
+sevilla,La Liga,383,Spain,sevilla,SkyBet,396
+celta vigo,La Liga,383,Spain,celta vigo,SkyBet,397
+mallorca,La Liga,383,Spain,real mallorca,SkyBet,398
+cadiz cf,La Liga,383,Spain,cadiz,SkyBet,399
+granada cf,La Liga,383,Spain,granada,SkyBet,400
+almeria,La Liga,383,Spain,almeria,SkyBet,401
+leganes,La Liga 2,384,Spain,leganes,SkyBet,402
+eibar,La Liga 2,384,Spain,eibar,SkyBet,403
+ferrol,La Liga 2,384,Spain,racing de ferrol,SkyBet,404
+espanyol,La Liga 2,384,Spain,espanyol,SkyBet,405
+valladolid,La Liga 2,384,Spain,valladolid,SkyBet,406
+elche,La Liga 2,384,Spain,elche cf,SkyBet,407
+gijon,La Liga 2,384,Spain,sporting gijon,SkyBet,408
+real oviedo,La Liga 2,384,Spain,real oviedo cf,SkyBet,409
+levante,La Liga 2,384,Spain,levante,SkyBet,410
+zaragoza,La Liga 2,384,Spain,real zaragoza,SkyBet,411
+racing santander,La Liga 2,384,Spain,racing santander,SkyBet,412
+burgos cf,La Liga 2,384,Spain,burgos,SkyBet,413
+eldense,La Liga 2,384,Spain,cd eldense,SkyBet,414
+mirandes,La Liga 2,384,Spain,mirandes,SkyBet,415
+tenerife,La Liga 2,384,Spain,cd tenerife,SkyBet,416
+huesca,La Liga 2,384,Spain,huesca,SkyBet,417
+albacete,La Liga 2,384,Spain,albacete balompie,SkyBet,418
+fc cartagena sad,La Liga 2,384,Spain,cartagena fc,SkyBet,419
+villarreal b,La Liga 2,384,Spain,villarreal ii,SkyBet,420
+alcorcon,La Liga 2,384,Spain,alcorcon,SkyBet,421
+andorra,La Liga 2,384,Spain,fc andorra,SkyBet,422
+amorebieta,La Liga 2,384,Spain,amorebieta,SkyBet,423

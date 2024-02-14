@@ -1,0 +1,332 @@
+team_name,main_league,main_league_common_id,country,team_name_website,website,team_common_id
+liverpool,English Premier League,337,England,liverpool,Bwin,7
+arsenal,English Premier League,337,England,arsenal,Bwin,8
+manchester city,English Premier League,337,England,manchester city,Bwin,9
+aston villa,English Premier League,337,England,aston villa,Bwin,10
+tottenham,English Premier League,337,England,tottenham hotspur,Bwin,11
+manchester united,English Premier League,337,England,manchester united,Bwin,12
+west ham,English Premier League,337,England,west ham united,Bwin,13
+brighton,English Premier League,337,England,brighton & hove albion,Bwin,14
+newcastle,English Premier League,337,England,newcastle united,Bwin,15
+wolves,English Premier League,337,England,wolverhampton wanderers,Bwin,16
+chelsea,English Premier League,337,England,chelsea,Bwin,17
+bournemouth,English Premier League,337,England,afc bournemouth,Bwin,18
+fulham,English Premier League,337,England,fulham,Bwin,19
+crystal palace,English Premier League,337,England,crystal palace,Bwin,20
+brentford,English Premier League,337,England,brentford,Bwin,21
+nottingham forest,English Premier League,337,England,nottingham forest,Bwin,22
+luton,English Premier League,337,England,luton town,Bwin,23
+everton,English Premier League,337,England,everton fc,Bwin,24
+burnley,English Premier League,337,England,burnley,Bwin,25
+sheffield united,English Premier League,337,England,sheffield united,Bwin,26
+leicester,Championship,338,England,leicester city,Bwin,27
+southampton,Championship,338,England,southampton fc,Bwin,28
+leeds,Championship,338,England,leeds united,Bwin,29
+ipswich,Championship,338,England,ipswich town,Bwin,30
+west brom,Championship,338,England,west bromwich albion,Bwin,31
+hull,Championship,338,England,hull city,Bwin,32
+coventry,Championship,338,England,coventry city,Bwin,33
+sunderland,Championship,338,England,sunderland afc,Bwin,34
+norwich,Championship,338,England,norwich city,Bwin,35
+preston,Championship,338,England,preston north end,Bwin,36
+watford,Championship,338,England,watford,Bwin,37
+middlesbrough,Championship,338,England,middlesbrough,Bwin,38
+cardiff,Championship,338,England,cardiff city,Bwin,39
+bristol city,Championship,338,England,bristol city,Bwin,40
+plymouth,Championship,338,England,plymouth argyle,Bwin,41
+millwall,Championship,338,England,millwall,Bwin,42
+swansea,Championship,338,England,swansea city,Bwin,43
+blackburn,Championship,338,England,blackburn rovers,Bwin,44
+birmingham,Championship,338,England,birmingham city,Bwin,45
+stoke,Championship,338,England,stoke city,Bwin,46
+huddersfield,Championship,338,England,huddersfield town,Bwin,47
+qpr,Championship,338,England,queens park rangers,Bwin,48
+sheffield wednesday,Championship,338,England,sheffield wednesday,Bwin,49
+rotherham,Championship,338,England,rotherham united,Bwin,50
+portsmouth,League One,339,England,portsmouth,Bwin,51
+derby,League One,339,England,derby county,Bwin,52
+bolton,League One,339,England,bolton wanderers,Bwin,53
+peterborough,League One,339,England,peterborough united,Bwin,54
+barnsley,League One,339,England,barnsley,Bwin,55
+stevenage,League One,339,England,stevenage,Bwin,56
+oxford united,League One,339,England,oxford united,Bwin,57
+blackpool,League One,339,England,blackpool,Bwin,58
+leyton orient,League One,339,England,leyton orient,Bwin,59
+bristol rovers,League One,339,England,bristol rovers,Bwin,60
+northampton,League One,339,England,northampton town,Bwin,61
+lincoln,League One,339,England,lincoln city,Bwin,62
+wigan,League One,339,England,wigan athletic,Bwin,63
+cambridge united,League One,339,England,cambridge united,Bwin,64
+wycombe,League One,339,England,wycombe wanderers,Bwin,65
+shrewsbury,League One,339,England,shrewsbury town,Bwin,66
+exeter,League One,339,England,exeter city,Bwin,67
+burton,League One,339,England,burton albion,Bwin,68
+charlton,League One,339,England,charlton athletic,Bwin,69
+port vale,League One,339,England,port vale,Bwin,70
+reading,League One,339,England,reading,Bwin,71
+cheltenham,League One,339,England,cheltenham town,Bwin,72
+fleetwood,League One,339,England,fleetwood town,Bwin,73
+carlisle,League One,339,England,carlisle united,Bwin,74
+stockport county,League Two,340,England,stockport county fc,Bwin,75
+mansfield,League Two,340,England,mansfield town,Bwin,76
+barrow,League Two,340,England,barrow,Bwin,77
+wrexham,League Two,340,England,wrexham afc,Bwin,78
+crewe,League Two,340,England,crewe alexandra,Bwin,79
+mk dons,League Two,340,England,milton keynes dons,Bwin,80
+notts county,League Two,340,England,notts county,Bwin,81
+harrogate,League Two,340,England,harrogate town,Bwin,82
+afc wimbledon,League Two,340,England,afc wimbledon,Bwin,83
+gillingham,League Two,340,England,gillingham,Bwin,84
+accrington,League Two,340,England,accrington stanley,Bwin,85
+morecambe,League Two,340,England,morecambe,Bwin,86
+newport,League Two,340,England,newport county,Bwin,87
+crawley,League Two,340,England,crawley town,Bwin,88
+walsall,League Two,340,England,walsall,Bwin,89
+tranmere,League Two,340,England,tranmere rovers,Bwin,90
+swindon,League Two,340,England,swindon town,Bwin,91
+bradford city,League Two,340,England,bradford city,Bwin,92
+salford,League Two,340,England,salford city,Bwin,93
+grimsby,League Two,340,England,grimsby town,Bwin,94
+colchester,League Two,340,England,colchester united,Bwin,95
+doncaster,League Two,340,England,doncaster rovers fc,Bwin,96
+sutton,League Two,340,England,sutton united,Bwin,97
+forest green,League Two,340,England,forest green rovers,Bwin,98
+aldershot,National League,341,England,aldershot town fc,Bwin,103
+solihull moors,National League,341,England,solihull moors fc,Bwin,104
+oldham,National League,341,England,oldham athletic,Bwin,106
+fc halifax,National League,341,England,fc halifax town,Bwin,108
+boreham wood,National League,341,England,boreham wood fc,Bwin,113
+maidenhead,National League,341,England,maidenhead united fc,Bwin,114
+york city,National League,341,England,york city fc,Bwin,116
+dorking,National League,341,England,dorking wanderers,Bwin,117
+afc fylde,National League,341,England,afc fylde,Bwin,118
+kidderminster,National League,341,England,kidderminster harriers,Bwin,119
+wellington phoenix,A-League,347,Australia,wellington phoenix fc,Bwin,123
+central coast mariners,A-League,347,Australia,central coast mariners,Bwin,124
+melbourne victory,A-League,347,Australia,melbourne victory,Bwin,125
+macarthur fc,A-League,347,Australia,macarthur,Bwin,126
+ws wanderers,A-League,347,Australia,western sydney wanderers fc,Bwin,127
+melbourne city,A-League,347,Australia,melbourne city fc,Bwin,128
+sydney fc,A-League,347,Australia,sydney fc,Bwin,129
+adelaide united,A-League,347,Australia,adelaide united fc,Bwin,130
+brisbane roar,A-League,347,Australia,brisbane roar,Bwin,131
+newcastle jets,A-League,347,Australia,newcastle united jets,Bwin,132
+perth glory,A-League,347,Australia,perth glory,Bwin,133
+western united,A-League,347,Australia,western united,Bwin,134
+midtjylland,Superliga,348,Denmark,fc midtjylland,Bwin,135
+brondby,Superliga,348,Denmark,brondby if,Bwin,136
+fc copenhagen,Superliga,348,Denmark,fc copenhagen,Bwin,137
+nordsjaelland,Superliga,348,Denmark,fc nordsjaelland,Bwin,139
+silkeborg,Superliga,348,Denmark,silkeborg if,Bwin,140
+lyngby,Superliga,348,Denmark,lyngby bk,Bwin,141
+viborg,Superliga,348,Denmark,viborg ff,Bwin,142
+odense,Superliga,348,Denmark,odense bk,Bwin,143
+randers fc,Superliga,348,Denmark,randers fc,Bwin,144
+hvidovre if,Superliga,348,Denmark,hvidovre if,Bwin,146
+psg,Ligue 1,349,France,paris saint-germain,Bwin,147
+nice,Ligue 1,349,France,ogc nice,Bwin,148
+brest,Ligue 1,349,France,stade brest 29,Bwin,149
+lille,Ligue 1,349,France,lille osc,Bwin,150
+monaco,Ligue 1,349,France,as monaco,Bwin,151
+lens,Ligue 1,349,France,rc lens,Bwin,152
+reims,Ligue 1,349,France,stade reims,Bwin,153
+marseille,Ligue 1,349,France,olympique marseille,Bwin,154
+rennes,Ligue 1,349,France,stade rennais,Bwin,155
+strasbourg,Ligue 1,349,France,rc strasbourg alsace,Bwin,156
+le havre,Ligue 1,349,France,le havre ac,Bwin,157
+toulouse,Ligue 1,349,France,toulouse fc,Bwin,158
+montpellier,Ligue 1,349,France,montpellier hsc,Bwin,159
+nantes,Ligue 1,349,France,fc nantes ,Bwin,160
+lyon,Ligue 1,349,France,olympique lyon,Bwin,161
+metz,Ligue 1,349,France,fc metz,Bwin,162
+lorient,Ligue 1,349,France,fc lorient,Bwin,163
+clermont,Ligue 1,349,France,clermont foot 63,Bwin,164
+angers,Ligue 2,350,France,angers sco,Bwin,165
+auxerre,Ligue 2,350,France,aj auxerre,Bwin,166
+grenoble,Ligue 2,350,France,grenoble foot,Bwin,167
+laval,Ligue 2,350,France,stade lavallois,Bwin,168
+amiens,Ligue 2,350,France,amiens sc,Bwin,169
+pau fc,Ligue 2,350,France,pau fc,Bwin,170
+caen,Ligue 2,350,France,sm caen,Bwin,171
+ac ajaccio,Ligue 2,350,France,ac ajaccio,Bwin,172
+guingamp,Ligue 2,350,France,ea guingamp,Bwin,173
+paris fc,Ligue 2,350,France,paris fc,Bwin,174
+st etienne,Ligue 2,350,France,as saint-etienne,Bwin,175
+rodez,Ligue 2,350,France,rodez aveyron,Bwin,176
+bordeaux,Ligue 2,350,France,girondins bordeaux,Bwin,177
+concarneau,Ligue 2,350,France,us concarneau,Bwin,178
+troyes,Ligue 2,350,France,estac troyes,Bwin,179
+bastia,Ligue 2,350,France,sc bastia,Bwin,180
+annecy,Ligue 2,350,France,annecy fc,Bwin,181
+dunkerque,Ligue 2,350,France,usl dunkerque,Bwin,182
+quevilly rouen,Ligue 2,350,France,us quevilly-rouen m.,Bwin,183
+valenciennes,Ligue 2,350,France,valenciennes fc,Bwin,184
+bayer leverkusen,Bundesliga,351,Germany,bayer leverkusen,Bwin,185
+bayern munich,Bundesliga,351,Germany,bayern munich,Bwin,186
+stuttgart,Bundesliga,351,Germany,vfb stuttgart,Bwin,187
+dortmund,Bundesliga,351,Germany,borussia dortmund,Bwin,188
+rb leipzig,Bundesliga,351,Germany,rb leipzig,Bwin,189
+eintracht frankfurt,Bundesliga,351,Germany,eintracht frankfurt,Bwin,190
+freiburg,Bundesliga,351,Germany,sc freiburg,Bwin,191
+hoffenheim,Bundesliga,351,Germany,tsg hoffenheim,Bwin,192
+werder bremen,Bundesliga,351,Germany,werder bremen,Bwin,193
+heidenheim,Bundesliga,351,Germany,1. fc heidenheim,Bwin,194
+wolfsburg,Bundesliga,351,Germany,vfl wolfsburg,Bwin,195
+augsburg,Bundesliga,351,Germany,fc augsburg,Bwin,196
+borussia monchengladbach,Bundesliga,351,Germany,borussia monchengladbach,Bwin,197
+bochum,Bundesliga,351,Germany,vfl bochum,Bwin,198
+union berlin,Bundesliga,351,Germany,union berlin,Bwin,199
+fc koln,Bundesliga,351,Germany,1. fc cologne,Bwin,200
+mainz,Bundesliga,351,Germany,1. fsv mainz 05,Bwin,201
+darmstadt,Bundesliga,351,Germany,sv darmstadt 98,Bwin,202
+st. pauli,2. Bundesliga,352,Germany,fc st. pauli,Bwin,203
+hamburger sv,2. Bundesliga,352,Germany,hamburger sv,Bwin,204
+holstein kiel,2. Bundesliga,352,Germany,holstein kiel,Bwin,205
+greuther furth,2. Bundesliga,352,Germany,greuther furth,Bwin,206
+dusseldorf,2. Bundesliga,352,Germany,fortuna dusseldorf,Bwin,207
+hannover,2. Bundesliga,352,Germany,hannover 96,Bwin,208
+paderborn,2. Bundesliga,352,Germany,sc paderborn 07,Bwin,209
+karlsruher sc,2. Bundesliga,352,Germany,karlsruher sc,Bwin,210
+elversberg,2. Bundesliga,352,Germany,sv 07 elversberg,Bwin,211
+nurnberg,2. Bundesliga,352,Germany,1. fc nurnberg,Bwin,212
+hertha berlin,2. Bundesliga,352,Germany,hertha bsc,Bwin,213
+wehen,2. Bundesliga,352,Germany,sv wehen wiesbaden,Bwin,214
+magdeburg,2. Bundesliga,352,Germany,1. fc magdeburg,Bwin,215
+schalke,2. Bundesliga,352,Germany,schalke 04,Bwin,216
+kaiserslautern,2. Bundesliga,352,Germany,1. fc kaiserslautern,Bwin,217
+hansa rostock,2. Bundesliga,352,Germany,hansa rostock,Bwin,218
+braunschweig,2. Bundesliga,352,Germany,eintracht braunschweig,Bwin,219
+vfl osnabruck,2. Bundesliga,352,Germany,vfl 1899 osnabruck,Bwin,220
+inter,Serie A,353,Italy,inter milan,Bwin,221
+juventus,Serie A,353,Italy,juventus fc,Bwin,222
+ac milan,Serie A,353,Italy,ac milan,Bwin,223
+atalanta,Serie A,353,Italy,atalanta bc,Bwin,224
+as roma,Serie A,353,Italy,as roma,Bwin,225
+bologna,Serie A,353,Italy,bologna fc,Bwin,226
+napoli,Serie A,353,Italy,ssc napoli,Bwin,227
+fiorentina,Serie A,353,Italy,acf fiorentina,Bwin,228
+lazio,Serie A,353,Italy,lazio,Bwin,229
+torino,Serie A,353,Italy,torino fc,Bwin,230
+genoa,Serie A,353,Italy,genoa cfc,Bwin,231
+monza,Serie A,353,Italy,ac monza,Bwin,232
+lecce,Serie A,353,Italy,us lecce,Bwin,233
+forsinone,Serie A,353,Italy,frosinone calcio,Bwin,234
+sassuolo,Serie A,353,Italy,sassuolo calcio,Bwin,235
+udinese,Serie A,353,Italy,udinese calcio,Bwin,236
+verona,Serie A,353,Italy,hellas verona,Bwin,237
+cagliari,Serie A,353,Italy,cagliari calcio,Bwin,238
+empoli,Serie A,353,Italy,fc empoli,Bwin,239
+salernitana,Serie A,353,Italy,us salernitana,Bwin,240
+parma,Serie B,354,Italy,parma calcio,Bwin,241
+cremonese,Serie B,354,Italy,us cremonese,Bwin,242
+como,Serie B,354,Italy,como 1907,Bwin,243
+venezia,Serie B,354,Italy,venezia fc,Bwin,244
+palermo,Serie B,354,Italy,palermo fc,Bwin,245
+cittadella,Serie B,354,Italy,as citadella,Bwin,246
+catanzaro,Serie B,354,Italy,us catanzaro 1929,Bwin,247
+brescia,Serie B,354,Italy,brescia calcio,Bwin,248
+modena,Serie B,354,Italy,modena fc,Bwin,249
+reggiana,Serie B,354,Italy,ac reggiana,Bwin,250
+cosenza,Serie B,354,Italy,cosenza calcio,Bwin,251
+sudtirol,Serie B,354,Italy,fc sudtirol,Bwin,252
+pisa,Serie B,354,Italy,pisa sporting club,Bwin,253
+sampdoria,Serie B,354,Italy,sampdoria,Bwin,254
+bari,Serie B,354,Italy,ssc bari,Bwin,255
+ascoli,Serie B,354,Italy,ascoli calcio 1898,Bwin,256
+ternana,Serie B,354,Italy,ternana calcio,Bwin,257
+feralpisalo,Serie B,354,Italy,feralpisalo,Bwin,258
+spezia,Serie B,354,Italy,spezia calcio,Bwin,259
+lecco,Serie B,354,Italy,calcio lecco 1912,Bwin,260
+psv,Eredivisie,357,Netherlands,psv eindhoven,Bwin,301
+feyenoord,Eredivisie,357,Netherlands,feyenoord rotterdam,Bwin,302
+twente,Eredivisie,357,Netherlands,fc twente,Bwin,303
+az alkmaar,Eredivisie,357,Netherlands,az alkmaar,Bwin,304
+ajax,Eredivisie,357,Netherlands,ajax amsterdam,Bwin,305
+g.a. eagles,Eredivisie,357,Netherlands,go ahead eagles,Bwin,306
+nijmegen,Eredivisie,357,Netherlands,nec nijmegen,Bwin,307
+zwolle,Eredivisie,357,Netherlands,pec zwolle,Bwin,308
+sparta rotterdam,Eredivisie,357,Netherlands,sparta rotterdam,Bwin,309
+sittard,Eredivisie,357,Netherlands,fortuna sittard,Bwin,310
+utrecht,Eredivisie,357,Netherlands,fc utrecht,Bwin,311
+almere city,Eredivisie,357,Netherlands,almere city fc,Bwin,312
+heerenveen,Eredivisie,357,Netherlands,sc heerenveen,Bwin,313
+excelsior,Eredivisie,357,Netherlands,excelsior rotterdam,Bwin,314
+heracles,Eredivisie,357,Netherlands,heracles almelo,Bwin,315
+waalwijk,Eredivisie,357,Netherlands,rkc waalwijk,Bwin,316
+fc volendam,Eredivisie,357,Netherlands,fc volendam,Bwin,317
+vitesse,Eredivisie,357,Netherlands,vitesse arnhem,Bwin,318
+willem ii,Eerste Divisie,358,Netherlands,willem ii tilburg,Bwin,319
+den haag,Eerste Divisie,358,Netherlands,ado den haag,Bwin,320
+roda,Eerste Divisie,358,Netherlands,roda jc,Bwin,321
+de graafschap,Eerste Divisie,358,Netherlands,de graafschap,Bwin,322
+dordrecht,Eerste Divisie,358,Netherlands,fc dordrecht,Bwin,323
+venlo,Eerste Divisie,358,Netherlands,vvv venlo,Bwin,325
+cambuur,Eerste Divisie,358,Netherlands,sc cambuur,Bwin,326
+nac breda,Eerste Divisie,358,Netherlands,nac breda,Bwin,327
+jong az,Eerste Divisie,358,Netherlands,jong az alkmaar,Bwin,329
+fc emmen,Eerste Divisie,358,Netherlands,fc emmen,Bwin,330
+eindhoven fc,Eerste Divisie,358,Netherlands,fc emmen,Bwin,331
+helmond,Eerste Divisie,358,Netherlands,helmond sport,Bwin,332
+jong ajax,Eerste Divisie,358,Netherlands,jong ajax amsterdam,Bwin,333
+jong utrecht,Eerste Divisie,358,Netherlands,jong fc utrecht,Bwin,335
+den bosch,Eerste Divisie,358,Netherlands,fc den bosch,Bwin,336
+oss,Eerste Divisie,358,Netherlands,top oss,Bwin,337
+telstar,Eerste Divisie,358,Netherlands,sc telstar,Bwin,338
+benfica,Liga Portugal,365,Portugal,benfica lisbon,Bwin,339
+sporting cp,Liga Portugal,365,Portugal,sporting lisbon,Bwin,340
+fc porto,Liga Portugal,365,Portugal,fc porto,Bwin,341
+braga,Liga Portugal,365,Portugal,sc braga,Bwin,342
+vitoria guimaraes,Liga Portugal,365,Portugal,vitoria guimaraes,Bwin,343
+moreirense,Liga Portugal,365,Portugal,moreirense,Bwin,344
+sc farense,Liga Portugal,365,Portugal,sc farense,Bwin,345
+arouca,Liga Portugal,365,Portugal,fc arouca,Bwin,346
+famalicao,Liga Portugal,365,Portugal,fc famalicao,Bwin,347
+gil vicente,Liga Portugal,365,Portugal,gil vicente fc,Bwin,348
+boavista,Liga Portugal,365,Portugal,boavista fc,Bwin,349
+portimonense,Liga Portugal,365,Portugal,portimonense sc,Bwin,350
+estoril,Liga Portugal,365,Portugal,estoril praia,Bwin,351
+casa pia,Liga Portugal,365,Portugal,casa pia ac,Bwin,352
+rio ave,Liga Portugal,365,Portugal,rio ave fc,Bwin,353
+estrela,Liga Portugal,365,Portugal,cf estrela de amadora,Bwin,354
+chaves,Liga Portugal,365,Portugal,gd chaves,Bwin,355
+vizela,Liga Portugal,365,Portugal,fc vizela,Bwin,356
+real madrid,La Liga,383,Spain,real madrid,Bwin,382
+girona,La Liga,383,Spain,girona fc,Bwin,383
+barcelona,La Liga,383,Spain,fc barcelona,Bwin,384
+atletico madrid,La Liga,383,Spain,atletico madrid,Bwin,385
+athletic bilbao,La Liga,383,Spain,athletic bilbao,Bwin,386
+real sociedad,La Liga,383,Spain,real sociedad,Bwin,387
+valencia,La Liga,383,Spain,valencia cf,Bwin,388
+betis,La Liga,383,Spain,real betis,Bwin,389
+las palmas,La Liga,383,Spain,ud las palmas,Bwin,390
+getafe,La Liga,383,Spain,getafe cf,Bwin,391
+alaves,La Liga,383,Spain,deportivo alaves,Bwin,392
+osasuna,La Liga,383,Spain,ca osasuna,Bwin,393
+rayo vallecano,La Liga,383,Spain,rayo vallecano,Bwin,394
+villarreal,La Liga,383,Spain,villarreal cf,Bwin,395
+sevilla,La Liga,383,Spain,sevilla fc,Bwin,396
+celta vigo,La Liga,383,Spain,rc celta de vigo,Bwin,397
+mallorca,La Liga,383,Spain,rcd mallorca,Bwin,398
+cadiz cf,La Liga,383,Spain,cadiz cf,Bwin,399
+granada cf,La Liga,383,Spain,granada cf,Bwin,400
+almeria,La Liga,383,Spain,ud almeria,Bwin,401
+leganes,La Liga 2,384,Spain,cd leganes,Bwin,402
+eibar,La Liga 2,384,Spain,sd eibar,Bwin,403
+ferrol,La Liga 2,384,Spain,racing club de ferrol,Bwin,404
+espanyol,La Liga 2,384,Spain,espanyol barcelona,Bwin,405
+valladolid,La Liga 2,384,Spain,real valladolid,Bwin,406
+elche,La Liga 2,384,Spain,elche cf,Bwin,407
+gijon,La Liga 2,384,Spain,sporting gijon,Bwin,408
+real oviedo,La Liga 2,384,Spain,real oviedo,Bwin,409
+levante,La Liga 2,384,Spain,levante ud,Bwin,410
+zaragoza,La Liga 2,384,Spain,real zaragoza,Bwin,411
+racing santander,La Liga 2,384,Spain,racing santander,Bwin,412
+burgos cf,La Liga 2,384,Spain,burgos cf,Bwin,413
+mirandes,La Liga 2,384,Spain,cd mirandes,Bwin,415
+huesca,La Liga 2,384,Spain,sd huesca,Bwin,417
+albacete,La Liga 2,384,Spain,albacete balompie,Bwin,418
+fc cartagena sad,La Liga 2,384,Spain,fc cartagena,Bwin,419
+villarreal b,La Liga 2,384,Spain,villarreal cf b,Bwin,420
+alcorcon,La Liga 2,384,Spain,alcorcon ad,Bwin,421
+andorra,La Liga 2,384,Spain,fc andorra,Bwin,422
+amorebieta,La Liga 2,384,Spain,sd amorebieta,Bwin,423

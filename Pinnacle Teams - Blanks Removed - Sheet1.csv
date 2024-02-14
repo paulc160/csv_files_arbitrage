@@ -1,0 +1,345 @@
+team_name,main_league,main_league_common_id,country,team_name_website,website,team_common_id
+liverpool,English Premier League,337,England,liverpool,Pinnacle,7
+arsenal,English Premier League,337,England,arsenal,Pinnacle,8
+manchester city,English Premier League,337,England,manchester city,Pinnacle,9
+aston villa,English Premier League,337,England,aston villa,Pinnacle,10
+tottenham,English Premier League,337,England,tottenham hotspur,Pinnacle,11
+manchester united,English Premier League,337,England,manchester united,Pinnacle,12
+west ham,English Premier League,337,England,west ham united,Pinnacle,13
+brighton,English Premier League,337,England,brighton and hove albion,Pinnacle,14
+newcastle,English Premier League,337,England,newcastle united,Pinnacle,15
+wolves,English Premier League,337,England,wolves,Pinnacle,16
+chelsea,English Premier League,337,England,chelsea,Pinnacle,17
+bournemouth,English Premier League,337,England,bournemouth,Pinnacle,18
+fulham,English Premier League,337,England,fulham,Pinnacle,19
+crystal palace,English Premier League,337,England,crystal palace,Pinnacle,20
+brentford,English Premier League,337,England,brentford,Pinnacle,21
+nottingham forest,English Premier League,337,England,nottingham forest,Pinnacle,22
+luton,English Premier League,337,England,luton town,Pinnacle,23
+everton,English Premier League,337,England,everton,Pinnacle,24
+burnley,English Premier League,337,England,burnley,Pinnacle,25
+sheffield united,English Premier League,337,England,sheffield united,Pinnacle,26
+leicester,Championship,338,England,leicester city,Pinnacle,27
+southampton,Championship,338,England,southampton,Pinnacle,28
+leeds,Championship,338,England,leeds united,Pinnacle,29
+ipswich,Championship,338,England,ipswich town,Pinnacle,30
+west brom,Championship,338,England,west brom,Pinnacle,31
+hull,Championship,338,England,hull city,Pinnacle,32
+coventry,Championship,338,England,coventry,Pinnacle,33
+sunderland,Championship,338,England,sunderland,Pinnacle,34
+norwich,Championship,338,England,norwich city,Pinnacle,35
+preston,Championship,338,England,preston,Pinnacle,36
+watford,Championship,338,England,watford,Pinnacle,37
+middlesbrough,Championship,338,England,middlesbrough,Pinnacle,38
+cardiff,Championship,338,England,cardiff city,Pinnacle,39
+bristol city,Championship,338,England,bristol city,Pinnacle,40
+plymouth,Championship,338,England,plymouth argyle,Pinnacle,41
+millwall,Championship,338,England,millwall,Pinnacle,42
+swansea,Championship,338,England,swansea city,Pinnacle,43
+blackburn,Championship,338,England,blackburn rovers,Pinnacle,44
+birmingham,Championship,338,England,birmingham city,Pinnacle,45
+stoke,Championship,338,England,stoke city,Pinnacle,46
+huddersfield,Championship,338,England,huddersfield town,Pinnacle,47
+qpr,Championship,338,England,queens park rangers,Pinnacle,48
+sheffield wednesday,Championship,338,England,sheffield wednesday,Pinnacle,49
+rotherham,Championship,338,England,rotherham,Pinnacle,50
+portsmouth,League One,339,England,portsmouth,Pinnacle,51
+derby,League One,339,England,derby county,Pinnacle,52
+bolton,League One,339,England,bolton wanderers,Pinnacle,53
+peterborough,League One,339,England,peterborough united,Pinnacle,54
+barnsley,League One,339,England,barnsley,Pinnacle,55
+stevenage,League One,339,England,stevenage,Pinnacle,56
+oxford united,League One,339,England,oxford united,Pinnacle,57
+blackpool,League One,339,England,blackpool,Pinnacle,58
+leyton orient,League One,339,England,leyton orient,Pinnacle,59
+bristol rovers,League One,339,England,bristol rovers,Pinnacle,60
+northampton,League One,339,England,northampton town,Pinnacle,61
+lincoln,League One,339,England,lincoln city,Pinnacle,62
+wigan,League One,339,England,wigan athletic,Pinnacle,63
+cambridge united,League One,339,England,cambridge united,Pinnacle,64
+wycombe,League One,339,England,wycombe,Pinnacle,65
+shrewsbury,League One,339,England,shrewsbury,Pinnacle,66
+exeter,League One,339,England,exeter city,Pinnacle,67
+burton,League One,339,England,burton albion,Pinnacle,68
+charlton,League One,339,England,charlton athletic,Pinnacle,69
+port vale,League One,339,England,port vale,Pinnacle,70
+reading,League One,339,England,reading,Pinnacle,71
+cheltenham,League One,339,England,cheltenham town,Pinnacle,72
+fleetwood,League One,339,England,fleetwood town,Pinnacle,73
+carlisle,League One,339,England,carlisle,Pinnacle,74
+stockport county,League Two,340,England,stockport,Pinnacle,75
+mansfield,League Two,340,England,mansfield,Pinnacle,76
+barrow,League Two,340,England,barrow,Pinnacle,77
+wrexham,League Two,340,England,wrexham,Pinnacle,78
+crewe,League Two,340,England,crewe alexandra,Pinnacle,79
+mk dons,League Two,340,England,mk dons,Pinnacle,80
+notts county,League Two,340,England,notts county,Pinnacle,81
+harrogate,League Two,340,England,harrogate town,Pinnacle,82
+afc wimbledon,League Two,340,England,afc wimbledon,Pinnacle,83
+gillingham,League Two,340,England,gillingham,Pinnacle,84
+accrington,League Two,340,England,accrington stanley,Pinnacle,85
+morecambe,League Two,340,England,morecambe,Pinnacle,86
+newport,League Two,340,England,newport county,Pinnacle,87
+crawley,League Two,340,England,crawley town,Pinnacle,88
+walsall,League Two,340,England,walsall,Pinnacle,89
+tranmere,League Two,340,England,tranmere rovers,Pinnacle,90
+swindon,League Two,340,England,swindon town,Pinnacle,91
+bradford city,League Two,340,England,bradford city,Pinnacle,92
+salford,League Two,340,England,salford city,Pinnacle,93
+grimsby,League Two,340,England,grimsby town,Pinnacle,94
+colchester,League Two,340,England,colchester united,Pinnacle,95
+doncaster,League Two,340,England,doncaster,Pinnacle,96
+sutton,League Two,340,England,sutton united,Pinnacle,97
+forest green,League Two,340,England,forest green rovers,Pinnacle,98
+chesterfield,National League,341,England,chesterfield,Pinnacle,99
+bromley,National League,341,England,bromley,Pinnacle,100
+aldershot,National League,341,England,aldershot town,Pinnacle,103
+solihull moors,National League,341,England,solihull motors,Pinnacle,104
+gateshead,National League,341,England,gateshead,Pinnacle,105
+oldham,National League,341,England,oldham athletic,Pinnacle,106
+fc halifax,National League,341,England,halifax town,Pinnacle,108
+wealdstone,National League,341,England,wealdstone,Pinnacle,110
+eastleigh,National League,341,England,eastleigh,Pinnacle,111
+boreham wood,National League,341,England,boreham wood,Pinnacle,113
+maidenhead,National League,341,England,maidenhead united,Pinnacle,114
+southend,National League,341,England,southend,Pinnacle,115
+york city,National League,341,England,york city,Pinnacle,116
+dorking,National League,341,England,dorking wanderers,Pinnacle,117
+afc fylde,National League,341,England,afc fylde,Pinnacle,118
+kidderminster,National League,341,England,kidderminster harriers,Pinnacle,119
+ebbsfleet,National League,341,England,ebbsfleet uinited,Pinnacle,120
+oxford city,National League,341,England,oxford city,Pinnacle,122
+wellington phoenix,A-League,347,Australia,wellington phoenix,Pinnacle,123
+central coast mariners,A-League,347,Australia,central coast mariners,Pinnacle,124
+melbourne victory,A-League,347,Australia,melbourne victory,Pinnacle,125
+macarthur fc,A-League,347,macarthur fc,macarthur fc,Pinnacle,126
+ws wanderers,A-League,347,Australia,western sydney wanderers,Pinnacle,127
+melbourne city,A-League,347,Australia,melbourne city,Pinnacle,128
+sydney fc,A-League,347,Australia,sydney fc,Pinnacle,129
+adelaide united,A-League,347,Australia,adelaide united,Pinnacle,130
+brisbane roar,A-League,347,Australia,brisbane roar,Pinnacle,131
+newcastle jets,A-League,347,Australia,newcastle jets,Pinnacle,132
+perth glory,A-League,347,Australia,perth glory,Pinnacle,133
+western united,A-League,347,Australia,western united,Pinnacle,134
+midtjylland,Superliga,348,Denmark,fc midtjylland,Pinnacle,135
+brondby,Superliga,348,Denmark,brondby if,Pinnacle,136
+fc copenhagen,Superliga,348,Denmark,fc copenhagen,Pinnacle,137
+aarhus,Superliga,348,Denmark,agf aarhus,Pinnacle,138
+nordsjaelland,Superliga,348,Denmark,fc nordsjaelland,Pinnacle,139
+silkeborg,Superliga,348,Denmark,silkeborg if,Pinnacle,140
+lyngby,Superliga,348,Denmark,lyngby,Pinnacle,141
+viborg,Superliga,348,Denmark,viborg ff,Pinnacle,142
+odense,Superliga,348,Denmark,ob odense bk,Pinnacle,143
+randers fc,Superliga,348,Denmark,randers fc,Pinnacle,144
+vejle,Superliga,348,Denmark,velje boldklub,Pinnacle,145
+hvidovre if,Superliga,348,Denmark,hvidovre,Pinnacle,146
+psg,Ligue 1,349,France,paris saint germain,Pinnacle,147
+nice,Ligue 1,349,France,nice,Pinnacle,148
+brest,Ligue 1,349,France,brest,Pinnacle,149
+lille,Ligue 1,349,France,lille,Pinnacle,150
+monaco,Ligue 1,349,France,as monaco,Pinnacle,151
+lens,Ligue 1,349,France,lens,Pinnacle,152
+reims,Ligue 1,349,France,reims,Pinnacle,153
+marseille,Ligue 1,349,France,marseille,Pinnacle,154
+rennes,Ligue 1,349,France,rennes,Pinnacle,155
+strasbourg,Ligue 1,349,France,strasbourg,Pinnacle,156
+le havre,Ligue 1,349,France,le havre,Pinnacle,157
+toulouse,Ligue 1,349,France,toulouse fc,Pinnacle,158
+montpellier,Ligue 1,349,France,montpellier hsc,Pinnacle,159
+nantes,Ligue 1,349,France,nantes,Pinnacle,160
+lyon,Ligue 1,349,France,lyon,Pinnacle,161
+metz,Ligue 1,349,France,metz,Pinnacle,162
+lorient,Ligue 1,349,France,lorient,Pinnacle,163
+clermont,Ligue 1,349,France,clermont,Pinnacle,164
+angers,Ligue 2,350,France,angers sco,Pinnacle,165
+auxerre,Ligue 2,350,France,auxerre,Pinnacle,166
+grenoble,Ligue 2,350,France,grenoble,Pinnacle,167
+laval,Ligue 2,350,France,stade lavallois,Pinnacle,168
+amiens,Ligue 2,350,France,amiens,Pinnacle,169
+pau fc,Ligue 2,350,France,pau fc,Pinnacle,170
+caen,Ligue 2,350,France,caen,Pinnacle,171
+ac ajaccio,Ligue 2,350,France,ac ajaccio,Pinnacle,172
+guingamp,Ligue 2,350,France,guingamp,Pinnacle,173
+paris fc,Ligue 2,350,France,paris fc,Pinnacle,174
+st etienne,Ligue 2,350,France,st etienne,Pinnacle,175
+rodez,Ligue 2,350,France,rodez,Pinnacle,176
+bordeaux,Ligue 2,350,France,bordeaux,Pinnacle,177
+concarneau,Ligue 2,350,France,concarneau,Pinnacle,178
+troyes,Ligue 2,350,France,troyes ac,Pinnacle,179
+bastia,Ligue 2,350,France,bastia,Pinnacle,180
+annecy,Ligue 2,350,France,annecy,Pinnacle,181
+dunkerque,Ligue 2,350,France,dunkerque,Pinnacle,182
+quevilly rouen,Ligue 2,350,France,quevilly,Pinnacle,183
+valenciennes,Ligue 2,350,France,valenciennes fc,Pinnacle,184
+bayer leverkusen,Bundesliga,351,Germany,bayer leverkusen,Pinnacle,185
+bayern munich,Bundesliga,351,Germany,bayern munich,Pinnacle,186
+stuttgart,Bundesliga,351,Germany,stuttgart,Pinnacle,187
+dortmund,Bundesliga,351,Germany,borussia dortmund,Pinnacle,188
+rb leipzig,Bundesliga,351,Germany,rb leipzig,Pinnacle,189
+eintracht frankfurt,Bundesliga,351,Germany,eintracht frankfurt,Pinnacle,190
+freiburg,Bundesliga,351,Germany,freiburg,Pinnacle,191
+hoffenheim,Bundesliga,351,Germany,hoffenheim,Pinnacle,192
+werder bremen,Bundesliga,351,Germany,werder bremen,Pinnacle,193
+heidenheim,Bundesliga,351,Germany,fc heidenheim,Pinnacle,194
+wolfsburg,Bundesliga,351,Germany,wolfsburg,Pinnacle,195
+augsburg,Bundesliga,351,Germany,augsburg,Pinnacle,196
+borussia monchengladbach,Bundesliga,351,Germany,borussia monchengladbach,Pinnacle,197
+bochum,Bundesliga,351,Germany,bochum,Pinnacle,198
+union berlin,Bundesliga,351,Germany,union berlin,Pinnacle,199
+fc koln,Bundesliga,351,Germany,fc koln,Pinnacle,200
+mainz,Bundesliga,351,Germany,mainz 05,Pinnacle,201
+darmstadt,Bundesliga,351,Germany,darmstadt,Pinnacle,202
+st. pauli,2. Bundesliga,352,Germany,st pauli,Pinnacle,203
+hamburger sv,2. Bundesliga,352,Germany,hamburger sv,Pinnacle,204
+holstein kiel,2. Bundesliga,352,Germany,holstein kiel,Pinnacle,205
+greuther furth,2. Bundesliga,352,Germany,greuther furth,Pinnacle,206
+dusseldorf,2. Bundesliga,352,Germany,fortuna dusseldorf,Pinnacle,207
+hannover,2. Bundesliga,352,Germany,hannover 96,Pinnacle,208
+paderborn,2. Bundesliga,352,Germany,paderborn,Pinnacle,209
+karlsruher sc,2. Bundesliga,352,Germany,karlsruher sc,Pinnacle,210
+elversberg,2. Bundesliga,352,Germany,elversberg,Pinnacle,211
+nurnberg,2. Bundesliga,352,Germany,nurnberg,Pinnacle,212
+hertha berlin,2. Bundesliga,352,Germany,hertha berlin,Pinnacle,213
+wehen,2. Bundesliga,352,Germany,wehen wiesbaden,Pinnacle,214
+magdeburg,2. Bundesliga,352,Germany,fc magdeburg,Pinnacle,215
+schalke,2. Bundesliga,352,Germany,schalke 04,Pinnacle,216
+kaiserslautern,2. Bundesliga,352,Germany,kaiserslautern,Pinnacle,217
+hansa rostock,2. Bundesliga,352,Germany,hansa rostock,Pinnacle,218
+braunschweig,2. Bundesliga,352,Germany,eintracht braunschweig,Pinnacle,219
+vfl osnabruck,2. Bundesliga,352,Germany,osnabruck,Pinnacle,220
+inter,Serie A,353,Italy,fc internazionale,Pinnacle,221
+juventus,Serie A,353,Italy,juventus,Pinnacle,222
+ac milan,Serie A,353,Italy,ac milan,Pinnacle,223
+atalanta,Serie A,353,Italy,atalanta bc,Pinnacle,224
+as roma,Serie A,353,Italy,as roma,Pinnacle,225
+bologna,Serie A,353,Italy,bologna,Pinnacle,226
+napoli,Serie A,353,Italy,napoli,Pinnacle,227
+fiorentina,Serie A,353,Italy,fiorentina,Pinnacle,228
+lazio,Serie A,353,Italy,lazio,Pinnacle,229
+torino,Serie A,353,Italy,torino,Pinnacle,230
+genoa,Serie A,353,Italy,genoa,Pinnacle,231
+monza,Serie A,353,Italy,ac monza,Pinnacle,232
+lecce,Serie A,353,Italy,lecce,Pinnacle,233
+forsinone,Serie A,353,Italy,frosinone,Pinnacle,234
+sassuolo,Serie A,353,Italy,sassuolo,Pinnacle,235
+udinese,Serie A,353,Italy,udinese,Pinnacle,236
+verona,Serie A,353,Italy,hellas verona fc,Pinnacle,237
+cagliari,Serie A,353,Italy,cagliari,Pinnacle,238
+empoli,Serie A,353,Italy,empoli,Pinnacle,239
+salernitana,Serie A,353,Italy,salkernitana,Pinnacle,240
+parma,Serie B,354,Italy,parma,Pinnacle,241
+cremonese,Serie B,354,Italy,cremonese,Pinnacle,242
+como,Serie B,354,Italy,como,Pinnacle,243
+venezia,Serie B,354,Italy,venezia,Pinnacle,244
+palermo,Serie B,354,Italy,palermo,Pinnacle,245
+cittadella,Serie B,354,Italy,cittadella,Pinnacle,246
+catanzaro,Serie B,354,Italy,catanzaro,Pinnacle,247
+brescia,Serie B,354,Italy,brescia,Pinnacle,248
+modena,Serie B,354,Italy,modena,Pinnacle,249
+reggiana,Serie B,354,Italy,reggiana,Pinnacle,250
+cosenza,Serie B,354,Italy,cosenza,Pinnacle,251
+sudtirol,Serie B,354,Italy,suditrol,Pinnacle,252
+pisa,Serie B,354,Italy,pisa,Pinnacle,253
+sampdoria,Serie B,354,Italy,sampdoria,Pinnacle,254
+bari,Serie B,354,Italy,bari,Pinnacle,255
+ascoli,Serie B,354,Italy,ascoli,Pinnacle,256
+ternana,Serie B,354,Italy,termana,Pinnacle,257
+feralpisalo,Serie B,354,Italy,feralpisalo,Pinnacle,258
+spezia,Serie B,354,Italy,spezia,Pinnacle,259
+lecco,Serie B,354,Italy,lecco,Pinnacle,260
+psv,Eredivisie,357,Netherlands,psv eindhoven,Pinnacle,301
+feyenoord,Eredivisie,357,Netherlands,feyenoord,Pinnacle,302
+twente,Eredivisie,357,Netherlands,fc twente enschede,Pinnacle,303
+az alkmaar,Eredivisie,357,Netherlands,az alkmaar,Pinnacle,304
+ajax,Eredivisie,357,Netherlands,ajax,Pinnacle,305
+g.a. eagles,Eredivisie,357,Netherlands,go ahead eagles,Pinnacle,306
+nijmegen,Eredivisie,357,Netherlands,nec nijmegen,Pinnacle,307
+zwolle,Eredivisie,357,Netherlands,fc zwolle,Pinnacle,308
+sparta rotterdam,Eredivisie,357,Netherlands,sparta rotterdam,Pinnacle,309
+sittard,Eredivisie,357,Netherlands,fortuna sittard,Pinnacle,310
+utrecht,Eredivisie,357,Netherlands,fc utrecht,Pinnacle,311
+almere city,Eredivisie,357,Netherlands,almere city,Pinnacle,312
+heerenveen,Eredivisie,357,Netherlands,heerenveen,Pinnacle,313
+excelsior,Eredivisie,357,Netherlands,excelsior,Pinnacle,314
+heracles,Eredivisie,357,Netherlands,heracles almelo,Pinnacle,315
+waalwijk,Eredivisie,357,Netherlands,rkc waalwijk,Pinnacle,316
+fc volendam,Eredivisie,357,Netherlands,volendam,Pinnacle,317
+vitesse,Eredivisie,357,Netherlands,vitesse arnhem,Pinnacle,318
+willem ii,Eerste Divisie,358,Netherlands,willem ii,Pinnacle,319
+den haag,Eerste Divisie,358,Netherlands,ado den haag,Pinnacle,320
+roda,Eerste Divisie,358,Netherlands,roda jc,Pinnacle,321
+de graafschap,Eerste Divisie,358,Netherlands,de graafschap,Pinnacle,322
+dordrecht,Eerste Divisie,358,Netherlands,dordrecht,Pinnacle,323
+groningen,Eerste Divisie,358,Netherlands,groningen,Pinnacle,324
+venlo,Eerste Divisie,358,Netherlands,vvv venlo,Pinnacle,325
+cambuur,Eerste Divisie,358,Netherlands,cambuur leeuwaarden,Pinnacle,326
+nac breda,Eerste Divisie,358,Netherlands,nac breda,Pinnacle,327
+maastricht,Eerste Divisie,358,Netherlands,maastricht,Pinnacle,328
+jong az,Eerste Divisie,358,Netherlands,jong az alkmaar,Pinnacle,329
+fc emmen,Eerste Divisie,358,Netherlands,emmen,Pinnacle,330
+eindhoven fc,Eerste Divisie,358,Netherlands,fc eindhoven,Pinnacle,331
+helmond,Eerste Divisie,358,Netherlands,helmond sport,Pinnacle,332
+jong ajax,Eerste Divisie,358,Netherlands,jong ajax,Pinnacle,333
+jong psv,Eerste Divisie,358,Netherlands,jong psv,Pinnacle,334
+jong utrecht,Eerste Divisie,358,Netherlands,jong fc utrecht,Pinnacle,335
+den bosch,Eerste Divisie,358,Netherlands,den bosch,Pinnacle,336
+oss,Eerste Divisie,358,Netherlands,top oss,Pinnacle,337
+telstar,Eerste Divisie,358,Netherlands,telstar,Pinnacle,338
+sporting cp,Liga Portugal,365,Portugal,sporting cp,Pinnacle,340
+fc porto,Liga Portugal,365,Portugal,fc porto,Pinnacle,341
+braga,Liga Portugal,365,Portugal,braga,Pinnacle,342
+vitoria guimaraes,Liga Portugal,365,Portugal,vitoria guimaraes,Pinnacle,343
+moreirense,Liga Portugal,365,Portugal,moreirense,Pinnacle,344
+sc farense,Liga Portugal,365,Portugal,farense,Pinnacle,345
+arouca,Liga Portugal,365,Portugal,arouca,Pinnacle,346
+famalicao,Liga Portugal,365,Portugal,famalicao,Pinnacle,347
+gil vicente,Liga Portugal,365,Portugal,gil vicente,Pinnacle,348
+boavista,Liga Portugal,365,Portugal,boavista,Pinnacle,349
+portimonense,Liga Portugal,365,Portugal,portimonense,Pinnacle,350
+casa pia,Liga Portugal,365,Portugal,casa pia,Pinnacle,352
+rio ave,Liga Portugal,365,Portugal,rio ave,Pinnacle,353
+estrela,Liga Portugal,365,Portugal,estrela de amadora,Pinnacle,354
+chaves,Liga Portugal,365,Portugal,chaves,Pinnacle,355
+vizela,Liga Portugal,365,Portugal,vizela,Pinnacle,356
+real madrid,La Liga,383,Spain,real madrid,Pinnacle,382
+girona,La Liga,383,Spain,girona,Pinnacle,383
+barcelona,La Liga,383,Spain,barcelona,Pinnacle,384
+atletico madrid,La Liga,383,Spain,atletico madrid,Pinnacle,385
+athletic bilbao,La Liga,383,Spain,athletic cllub bilbao,Pinnacle,386
+real sociedad,La Liga,383,Spain,real sociedad,Pinnacle,387
+valencia,La Liga,383,Spain,valencia,Pinnacle,388
+betis,La Liga,383,Spain,real betis,Pinnacle,389
+las palmas,La Liga,383,Spain,las palmas,Pinnacle,390
+getafe,La Liga,383,Spain,getafe,Pinnacle,391
+alaves,La Liga,383,Spain,alaves,Pinnacle,392
+osasuna,La Liga,383,Spain,osasuna,Pinnacle,393
+rayo vallecano,La Liga,383,Spain,rayo vallecano,Pinnacle,394
+villarreal,La Liga,383,Spain,villarreal cf,Pinnacle,395
+sevilla,La Liga,383,Spain,sevilla,Pinnacle,396
+celta vigo,La Liga,383,Spain,celta vigo,Pinnacle,397
+mallorca,La Liga,383,Spain,mallorca,Pinnacle,398
+cadiz cf,La Liga,383,Spain,cadiz,Pinnacle,399
+granada cf,La Liga,383,Spain,granada cf,Pinnacle,400
+almeria,La Liga,383,Spain,almeria,Pinnacle,401
+leganes,La Liga 2,384,Spain,leganes,Pinnacle,402
+eibar,La Liga 2,384,Spain,eibar,Pinnacle,403
+ferrol,La Liga 2,384,Spain,racing club ferrol,Pinnacle,404
+espanyol,La Liga 2,384,Spain,espanyol,Pinnacle,405
+valladolid,La Liga 2,384,Spain,real valladolid cf,Pinnacle,406
+elche,La Liga 2,384,Spain,elche,Pinnacle,407
+gijon,La Liga 2,384,Spain,gijon,Pinnacle,408
+real oviedo,La Liga 2,384,Spain,real oviedo cf,Pinnacle,409
+levante,La Liga 2,384,Spain,levante ud,Pinnacle,410
+zaragoza,La Liga 2,384,Spain,real zaragoza,Pinnacle,411
+racing santander,La Liga 2,384,Spain,racing santander,Pinnacle,412
+burgos cf,La Liga 2,384,Spain,cd burgos,Pinnacle,413
+eldense,La Liga 2,384,Spain,eldense,Pinnacle,414
+mirandes,La Liga 2,384,Spain,mirandes,Pinnacle,415
+tenerife,La Liga 2,384,Spain,tenerife,Pinnacle,416
+huesca,La Liga 2,384,Spain,huesca,Pinnacle,417
+albacete,La Liga 2,384,Spain,albacete,Pinnacle,418
+fc cartagena sad,La Liga 2,384,Spain,fc cartagena,Pinnacle,419
+villarreal b,La Liga 2,384,Spain,villarreal b,Pinnacle,420
+alcorcon,La Liga 2,384,Spain,alcorcon,Pinnacle,421
+andorra,La Liga 2,384,Spain,fc andorra,Pinnacle,422
+amorebieta,La Liga 2,384,Spain,amorebieta,Pinnacle,423
